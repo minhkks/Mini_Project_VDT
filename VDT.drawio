@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T07:06:42.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8oNzYeNWYmk09gWzxJPk" version="21.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-17T07:07:54.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lsE-QALH9FnhAx8PGQGV" version="21.7.5" type="github" pages="3">
   <diagram name="Page-1" id="udrLgjQMtBrdLozp5wYZ">
     <mxGraphModel dx="794" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,8 +285,8 @@
             <mxPoint x="146" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVinxgK5j0uYYGArUbHH-18" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Phase 1: Xây dựng Embedding&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="420" width="310" height="40" as="geometry" />
+        <mxCell id="OVinxgK5j0uYYGArUbHH-18" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Phase 1&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Xây dựng Embedding&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="420" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OVinxgK5j0uYYGArUbHH-21" value="u1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="270" width="30" height="30" as="geometry" />
@@ -363,8 +363,8 @@
         <mxCell id="B3Z5Fff0QrLdnNZL7u3F-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;New Embedding B&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="710" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3Z5Fff0QrLdnNZL7u3F-7" value="&lt;h1&gt;Phase 2: Học bằng Embedding của khách hàng chung&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="380" width="270" height="120" as="geometry" />
+        <mxCell id="B3Z5Fff0QrLdnNZL7u3F-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Phase 2&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Học bằng Embedding của khách hàng chung&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="410" width="370" height="150" as="geometry" />
         </mxCell>
         <mxCell id="B3Z5Fff0QrLdnNZL7u3F-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="B3Z5Fff0QrLdnNZL7u3F-2" target="B3Z5Fff0QrLdnNZL7u3F-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
